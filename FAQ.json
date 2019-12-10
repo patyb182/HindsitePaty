@@ -1,0 +1,62 @@
+{
+  "myDashboard": [
+    {
+      "type": "Dashboard",
+      "section": "User Profile",
+      "description": "<div class='card'><div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Dashboard</div><div class='card-header collapsed' id='headingOneOne' data-toggle='collapse' data-target='#collapseOneOne' aria-expanded='false' aria-controls='collapseOneOne'></div></div></div></div><div class='async-progress-overlay'>          <div class='indeterminate_progress'>            <div class='indeterminate' role='progressbar' aria-valuenow='100' aria-valuemin='0' aria-valuemax='100'>Processing...</div>          </div></div></div>"
+    },
+    {
+      "type": "Dashboard",
+      "section": "Generate QR Code",
+      "description": "If you would like to Generate QR Code"
+    },
+    {
+      "type": "Dashboard",
+      "section": "Generate QR Code",
+      "description": "If you would like to Generate QR Code"
+    }
+  ],
+  "myWearable": [
+    {
+      "type": "Wearable",
+      "section": "User Profile",
+      "description": "If you would like to change your current password."
+    },
+    {
+      "type": "Wearable",
+      "section": "Generate QR Code",
+      "description": "If you would like to Generate QR Code"
+    },
+    {
+      "type": "Wearable",
+      "section": "Generate QR Code",
+      "description": "If you would like to Generate QR Code"
+    }
+  ],
+  "mySupportContact": [
+    {
+      "type": "SupportContact",
+      "section": "<h2 class='mb-0'>Contact us</h2>",
+      "description": "<h4><b>Let's get started!</b></h4><p>Would you like to book a demo? <b>YES!</b><br><br> 1. Go to (<a href='https://www.hindsiteind.com/contact// target='_blank'>https://www.hindsiteind.com/contact/</a>).<br><br>2. Click in <b>'Contact HINDSITE Today'</b><br><br>3. Please fill the form with:- First Name and Last Name<br>- Email Address <br>- Phone Number<br><br>4. Click in <b>'Contact me'</b><br><br>5. We will contact you shortly.</p>"
+    },
+    {
+      "type": "SupportContact",
+      "section": "<h2 class='mb-0'>Contact Hindsite Support</h2></div>",
+      "description": "<h4><b>Login in your dashboard.</b></h4><p>1. Open your Hindsite dashboard console. (<a href='https://admin.hindsiteind.com/'target='_blank'>https://admin.hindsiteind.com/</a>).<br> <br>2. Login with your Email and Password.<br><br>3. Go to the top right of your Dashboard and click in the phone icon.<br> <br>4. HINDSITE Support will show in your list or use the search option.<br> <br>5. Click in the phone icon on the right of the HINDSITE Support.<br> <br>6. To finish the call, just close the screen.<br></p>"
+    }
+  ],
+  "myHeader": [
+    {
+      "type": "Header",
+      "section": "<h2 class='mb-0'>Contact Hindsite Support</h2></div>",
+      "description": "<header class='flex-shrink-0'><nav class='navbar navbar-expand-md navbar-dark'><div class='container justify-content-center'><a class='navbar-brand' href='./'><img src='public/images/nav_brand.796c5ba7.png' alt='Hindsite  Ind.'class='img-fluid'></a></div></nav></header><div id='container' class='flex-fill dashboard-container menu-collapsed contacts-collapsed'>     <div class='container'><div class='rounded-corners text-center' style='font-size:1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Frequently asked questions</div><div class='accordion' id='accordionOne'>"
+    }
+  ],
+  "myFooter": [
+    {
+      "type": "Footer",
+      "section": "<h2 class='mb-0'>Contact Hindsite Support</h2></div>",
+      "description": "</div>  </div></div></div><div class='async-progress-overlay'><div class='indeterminate_progress'><div class='indeterminate' role='progressbar' aria-valuenow='100' aria-valuemin='0' aria-valuemax='100'>Processing...</div></div></div></div>"
+    }
+  ]
+}
