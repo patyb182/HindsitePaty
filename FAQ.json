@@ -123,7 +123,7 @@
     {
       "type": "Footer",
       "section": "Footer",
-      "description": "</div></div></div></div><div class='async-progress-overlay'><div class='indeterminate_progress'><div class='indeterminate' role='progressbar' aria-valuenow='100' aria-valuemin='0' aria-valuemax='100'>Processing...</div></div></div></div>"
+      "description": "</div>    </div>    <div class='async-progress-overlay'>      <div class='indeterminate_progress'>        <div class='indeterminate' role='progressbar' aria-valuenow='100' aria-valuemin='0' aria-valuemax='100'>Processing...</div>      </div>    </div>  </div>"
     }
   ]
 }
