@@ -54,60 +54,65 @@
     },
     {
       "type": "Wearable",
-      "section": "Login",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoTwo' data-toggle='collapse' data-target='#collapseTwoTwo' aria-expanded='false' aria-controls='collapseTwoTwo'>          <h2 class='mb-0'>Login</h2>        </div>",
+      "description": "<div id='collapseTwoTwo' class='collapse' aria-labelledby='headingTwoTwo' data-parent='#accordionOne'>        <div class='card-body'>          <br><h4><b>Before you begin</b></h4><br>          <p>You need the QR code of your User (Check how to Generate QR Code).<br>            <br>1. Talk the name of your organization '<b>Hindsite</b>'.<br>            <br>2. Talk '<b>Scan QR Code</b>'.<br>            <br>3. Point the camera to the Generated QR Code of your user.<br>            <br>4. You will see the Main Screen.<br>          </p>        </div>      </div>    </div>"
     },
     {
       "type": "Wearable",
-      "section": "Navigation Help",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>       <div class='card-header' id='headingTwoThree' data-toggle='collapse' data-target='#collapseTwoThree' aria-expanded='false' aria-controls='collapseTwoThree'>         <h2 class='mb-0'>Navigation Help</h2></div>",
+      "description": "<div id='collapseTwoThree' class='collapse' aria-labelledby='headingTwoThree' data-parent='#accordionOne'>        <div class='card-body'>          <br><h4><b>After your login</b></h4><br>         <br><p>1. Talk '<b>Show help</b>'.<br>          <br>2. You will see the list of words to help you navigate your wearable.<br></p>        </div>      </div>    </div>"
     },
     {
       "type": "Wearable",
-      "section": "Take Photo",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoFour' data-toggle='collapse' data-target='#collapseTwoFour' aria-expanded='false' aria-controls='collapseTwoFour'>          <h2 class='mb-0'>Take Photo</h2></div>",
+      "description": "<div id='collapseTwoFour' class='collapse' aria-labelledby='headingTwoFour' data-parent='#accordionOne'>        <div class='card-body'>              <br><h4><b>After your login</b></h4><br>              <br><p>1. Talk '<b>Take Photo</b>'.<br>                <br>2. Look at the image you would like to take a photo and talk '<b>Take Photo</b>'.<br>                <br>3. Check if the image is fine for you.<br>                <br>4. If YES and you would like to Save the photo, just talk '<b>Send</b>'.<br>                The photo will be automatically shared in all your platforms.<br>                <br>5. If you did not like the photo just talk '<b>Cancel</b>' and it will return to Main Screen.<br></p>        </div>      </div>  </div>"
     },
     {
       "type": "Wearable",
-      "section": "Capture Video",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'><div class='card-header' id='headingTwoFive' data-toggle='collapse' data-target='#collapseTwoFive' aria-expanded='false' aria-controls='collapseTwoFive'><h2 class='mb-0'>Capture Video</h2></div>",
+      "description": "<div id='collapseTwoFive' class='collapse' aria-labelledby='headingTwoFive' data-parent='#accordionOne'><div class='card-body'><br><h4><b>After your login</b></h4><br><br><p>1. Talk '<b>Capture Video</b>'.<br><br>2. Talk '<b>Record Video</b>' to start recording and talk '<b>Stop Recording</b>' to stop.'.<br><br>3. Check if the video is fine for you.<br><br>4. If YES and you would like to Save the video, just talk '<b>Send</b>'.<br>The video will be automatically shared in all your platforms.<br><br>5. If you did not like the video just talk '<b>Cancel</b>' and it will return to Main Screen.<br></p></div></div>  </div>"
     },
     {
       "type": "Wearable",
-      "section": "Micro Learning",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'><div class='card-header' id='headingTwoSix' data-toggle='collapse' data-target='#collapseTwoSix' aria-expanded='false' aria-controls='collapseTwoSix'><h2 class='mb-0'>Micro Learning</h2></div>",
+      "description": "<div id='collapseTwoSix' class='collapse' aria-labelledby='headingTwoSix' data-parent='#accordionOne'>          <div class='card-body'>            <br><h4><b>After your login</b></h4><br>            <br><p>1. Talk '<b>Micro Learning</b>'.<br>            <br>2. You will see all the photos and videos of your organization.<br>            <br>3. You can navigate talking '<b>Page Up</b>' or '<b>Page Down</b>' or '<b>Page Right</b>' or '<b>Page Left</b>'.<br>            <br>4. If it is a video, you can talk '<b>Play Video</b>'.<br></p>          </div>        </div>  </div>"
     },
     {
       "type": "Wearable",
-      "section": "Sync Device",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoSeven' data-toggle='collapse' data-target='#collapseTwoSeven' aria-expanded='false' aria-controls='collapseTwoSeven'>          <h2 class='mb-0'>Sync Device</h2></div>",
+      "description": "<div id='collapseTwoSeven' class='collapse' aria-labelledby='headingTwoSeven' data-parent='#accordionOne'>        <div class='card-body'>          <br><h4><b>After your login</b></h4><br>          <br><p>1. Talk '<b>Sync Device</b>'.<br>          <br>2. If there is any file in your device that is not synced yet.<br>              This option will share your files on all platforms.<br></p>        </div>      </div>    </div>"
     },
     {
       "type": "Wearable",
-      "section": "Make Call",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoEight' data-toggle='collapse' data-target='#collapseTwoEight' aria-expanded='false' aria-controls='collapseTwoEight'>          <h2 class='mb-0'>Make Call</h2></div>",
+      "description": "<div id='collapseTwoEight' class='collapse' aria-labelledby='headingTwoEight' data-parent='#accordionOne'>          <div class='card-body'>            <br><h4><b>After your login</b></h4><br>            <br><p>1. Talk '<b>Make Call</b>'.<br>            <br>2. Online users will appear first.<br>            <br>You can navigate talking '/b>Next Page</b>' or '<b>Prev Page</b>'.<br>            <br>3. Just talk the name of the user you would like to call '<b>User</b>'.<br>            <br>4. To finish the call just talk '<b>Disconnect Call</b>'.<br></p>          </div>        </div>      </div>"
     },
     {
       "type": "Wearable",
-      "section": "Update HINDSITE version",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoNine' data-toggle='collapse' data-target='#collapseTwoNine' aria-expanded='false' aria-controls='collapseTwoNine'>          <h2 class='mb-0'>Update HINDSITE version</h2></div>",
+      "description": "  <div id='collapseTwoNine' class='collapse' aria-labelledby='headingTwoNine' data-parent='#accordionOne'>          <div class='card-body'>            <br><h4><b>After your login</b></h4><br>            <br><p>1. Talk '<b>Go to Settings</b>'.<br>            <br>2. Talk '<b>Check update</b>'.<br>            <br>If there is a new version, it will show Install now HINDSITE new version.<br>            <br>3. Talk '<b>Install Now</b>'.<br>            <br>*Please see this video of how to update HINDSITE version on the HMT-1.<br></p>          </div>        </div>      </div>"
     },
     {
       "type": "Wearable",
-      "section": "LogOut",
-      "description": "If you would like to Generate QR Code"
+      "section": "<div class='card'>        <div class='card-header' id='headingTwoTen' data-toggle='collapse' data-target='#collapseTwoTen' aria-expanded='false' aria-controls='collapseTwoTen'>          <h2 class='mb-0'>LogOut</h2></div>",
+      "description": "<div id='collapseTwoTen' class='collapse' aria-labelledby='headingTwoTen' data-parent='#accordionOne'>        <div class='card-body'>          <br><h4><b>After your login</b></h4><br>          <br><p>1. Talk '<b>LogOut</b>'.<br>          <br>2. Talk '<b>Yes</b>'if you are sure you want to Logout.<br>          <br>OR<br>          <br>3. Talk '<b>Cancel</b>' to go back to Main Screen.<br></p>        </div>      </div>    </div>    <br>"
     }
   ],
   "mySupportContact": [
     {
       "type": "SupportContact",
-      "section": "<h2 class='mb-0'>Contact us",
-      "description": "<h4><b>Let's get started!</b></h4><p>Would you like to book a demo? <b>YES!</b><br><br> 1. Go to (<a href='https://www.hindsiteind.com/contact// target='_blank'>https://www.hindsiteind.com/contact/</a>).<br><br>2. Click in <b>'Contact HINDSITE Today'</b><br><br>3. Please fill the form with:- First Name and Last Name<br>- Email Address <br>- Phone Number<br><br>4. Click in <b>'Contact me'</b><br><br>5. We will contact you shortly.</p>"
+      "section": "SupportContact",
+      "description": "<div class='card'>        <div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Support contact details</div>"
     },
     {
       "type": "SupportContact",
-      "section": "<h2 class='mb-0'>Contact Hindsite Support</h2></div>",
-      "description": "<h4><b>Login in your dashboard.</b></h4><p>1. Open your Hindsite dashboard console. (<a href='https://admin.hindsiteind.com/'target='_blank'>https://admin.hindsiteind.com/</a>).<br> <br>2. Login with your Email and Password.<br><br>3. Go to the top right of your Dashboard and click in the phone icon.<br> <br>4. HINDSITE Support will show in your list or use the search option.<br> <br>5. Click in the phone icon on the right of the HINDSITE Support.<br> <br>6. To finish the call, just close the screen.<br></p>"
+      "section": "<div class='card-header collapsed' id='headingThreeOne' data-toggle='collapse' data-target='#collapseThreeOne' aria-expanded='false' aria-controls='collapseThreeOne'>          <h2 class='mb-0'>Contact us</h2>      </div>",
+      "description": "<div id='collapseThreeOne' class='collapse' aria-labelledby='headingThreeOne' data-parent='#accordionOne'>        <div class='card-body'>          <h4><b>Let's get started!</b></h4><br>          <p>Would you like to book a demo? <b>YES!</b><br>          <br>1. Go to (<a href='https://www.hindsiteind.com/contact//' target='_blank'>https://www.hindsiteind.com/contact/</a>).<br>          <br>2. Click in <b>'Contact HINDSITE Today'</b><br>          <br>3. Please fill the form with:            - First Name and Last Name          <br>- Email Address          <br>- Phone Number<br>          <br>4. Click in <b>'Contact me'</b><br>          <br>5. We will contact you shortly.</p>        </div>      </div>    </div>"
+    },
+    {
+      "type": "SupportContact",
+      "section": "<div class='card'>        <div class='card-header' id='accordionThreeTwo' data-toggle='collapse' data-target='#collapseThreeTwo' aria-expanded='false' aria-controls='collapseThreeTwo'>          <h2 class='mb-0'>Contact Hindsite Support</h2></div>",
+      "description": "  <div id='collapseThreeTwo' class='collapse' aria-labelledby='accordionThreeTwo' data-parent='#accordionOne'>          <div class='card-body'>            <h4><b>Login in your dashboard.</b></h4><br>            <p>1. Open your Hindsite dashboard console. (<a href='https://admin.hindsiteind.com/' target='_blank'>https://admin.hindsiteind.com/</a>).<br>            <br>2. Login with your Email and Password.<br>            <br>3. Go to the top right of your Dashboard and click in the phone icon.<br>            <br>4. HINDSITE Support will show in your list or use the search option.<br>            <br>5. Click in the phone icon on the right of the HINDSITE Support.<br>            <br>6. To finish the call, just close the screen.<br></p>          </div>        </div>      </div>"
     }
   ],
   "myHeader": [
