@@ -2,6 +2,7 @@
   "myDashboard": [
     {
       "type": "Dashboard",
+      "section": "",
       "description": "<div class='accordion' id='accordionOne'>        <div class='card'>          <div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Dashboard</div>"
     },
     {
@@ -43,6 +44,7 @@
   "myWearable": [
     {
       "type": "Wearable",
+      "section": "",
       "description": "<div class='card'><div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Wearable</div>"
     },
     {
@@ -99,6 +101,7 @@
   "mySupportContact": [
     {
       "type": "SupportContact",
+      "section": "",
       "description": "<div class='card'>        <div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Support contact details</div>"
     },
     {
