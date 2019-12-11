@@ -2,189 +2,55 @@
   "myDashboard": [
     {
       "type": "Dashboard",
+      "section": "Dashboard",
       "description": "<div class='card'><div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Dashboard</div>"
     },
     {
       "type": "Dashboard",
       "section": "<div class='card-header collapsed' id='headingOneOne' data-toggle='collapse' data-target='#collapseOneOne' aria-expanded='false' aria-controls='collapseOneOne'><h2 class='mb-0'>User Profile</h2></div>",
-      "description": "<div id='collapseOneOne' class='collapse' aria-labelledby='headingOneOne' data-parent='#accordionOne' style=''>
-          <div class='card-body'>
-            <h4><b>If you would like to change your current password.<br></b></h4>
-            <br><h4><b>Login in your dashboard.</b></h4><br>
-            <p>1. Open your Hindsite dashboard console. (<a href='https://app.hindsiteind.com/' target='_blank'>https://app.hindsiteind.com/</a>).<br>
-              <br>2. Login with your Email and Password.<br>
-              <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>
-              <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>
-              <br>5. Click in '<b>User Profile</b>'.<br>
-              <br>6. Insert your Current password, New password and Confirm new password in the fields provided.<br>
-              <br>7. Click in '<b>Save</b>' to save the new password.<br>
-              <br>8. Click in '<b>Cancel</b>' to not change your current password.<br>
-            </p>
-          </div>
-        </div>
-        </div>"
+      "description": "<div id='collapseOneOne' class='collapse' aria-labelledby='headingOneOne' data-parent='#accordionOne' style=''><div class='card-body'>            <h4><b>If you would like to change your current password.<br></b></h4>            <br><h4><b>Login in your dashboard.</b></h4><br>            <p>1. Open your Hindsite dashboard console. (<a href='https://app.hindsiteind.com/' target='_blank'>https://app.hindsiteind.com/</a>).<br>              <br>2. Login with your Email and Password.<br>              <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>              <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>              <br>5. Click in '<b>User Profile</b>'.<br>              <br>6. Insert your Current password, New password and Confirm new password in the fields provided.<br>              <br>7. Click in '<b>Save</b>' to save the new password.<br>              <br>8. Click in '<b>Cancel</b>' to not change your current password.<br></p></div></div></div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class='card'>
-        <div class='card-header' id='headingOneTwo' data-toggle='collapse' data-target='#collapseOneTwo' aria-expanded='false' aria-controls='collapseOneTwo'>
-          <h2 class='mb-0'>Generate QR Code</h2></div>",
-      "description": "  <div id=collapseOneTwo class=collapse aria-labelledby=headingOneTwo data-parent=#accordionOne>
-          <div class=card-body>
-            <h4><b>If you would like to Generate QR Code.<br></b></h4>
-            <br><h4><b>Login in your dashboard.</b></h4><br>
-            <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>
-              <br>2. Login with your Email and Password.<br>
-              <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>
-              <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>
-              <br>5. Click in <b>Generate QR Code</b>.<br>
-              <br>6. Click in <b>Wifi Login</b>.<br>
-              <br> - Insert SSID = Name of WiFi / phone/ device and Wi-Fi Password in the fields provided.<br>
-              <br>7. Click in <b>Mobile Login</b> to save the new password.<br>
-              <br> - Insert your Username and Password in the fields provided.<br>
-              <br>8. Click in <b>Generate QR Code</b><br>
-            </p>
-          </div>
-        </div>
-      </div>"
+      "section": "<div class='card'>        <div class='card-header' id='headingOneTwo' data-toggle='collapse' data-target='#collapseOneTwo' aria-expanded='false' aria-controls='collapseOneTwo'>          <h2 class='mb-0'>Generate QR Code</h2></div>",
+      "description": "  <div id=collapseOneTwo class=collapse aria-labelledby=headingOneTwo data-parent=#accordionOne>          <div class=card-body>            <h4><b>If you would like to Generate QR Code.<br></b></h4>            <br><h4><b>Login in your dashboard.</b></h4><br>            <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>              <br>2. Login with your Email and Password.<br>              <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>              <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>              <br>5. Click in <b>Generate QR Code</b>.<br>              <br>6. Click in <b>Wifi Login</b>.<br>              <br> - Insert SSID = Name of WiFi / phone/ device and Wi-Fi Password in the fields provided.<br>              <br>7. Click in <b>Mobile Login</b> to save the new password.<br>              <br> - Insert your Username and Password in the fields provided.<br>              <br>8. Click in <b>Generate QR Code</b><br>            </p>          </div>        </div>      </div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class=card>
-        <div class=card-header id=headingOneThree data-toggle=collapse data-target=#collapseOneThree aria-expanded=false aria-controls=collapseOneThree>
-          <h2 class=mb-0>Switch Organisaion</h2></div>",
-      "description": "<div id=collapseOneThree class=collapse aria-labelledby=headingOneThree data-parent=#accordionOne>
-        <div class=card-body>
-          <br><h4><b>Login in your dashboard.</b></h4><br>
-          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>
-            <br>2. Login with your Email and Password.<br>
-            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>
-            <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>
-            <br>5. Click in <b>Switch Organisation</b>.<br>
-            <br>6. Select the organisation you want to enter.<br>
-          </p>
-        </div>
-      </div>
-    </div>"
+      "section": "<div class=card>        <div class=card-header id=headingOneThree data-toggle=collapse data-target=#collapseOneThree aria-expanded=false aria-controls=collapseOneThree>          <h2 class=mb-0>Switch Organisaion</h2></div>",
+      "description": "<div id=collapseOneThree class=collapse aria-labelledby=headingOneThree data-parent=#accordionOne>        <div class=card-body>          <br><h4><b>Login in your dashboard.</b></h4><br>          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>            <br>2. Login with your Email and Password.<br>            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>            <br>4. Go to the top right of your Navigation bar and click in the User icon.<br>            <br>5. Click in <b>Switch Organisation</b>.<br>            <br>6. Select the organisation you want to enter.<br>          </p>        </div>      </div>    </div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class=card>
-        <div class=card-header id=headingOneFour data-toggle=collapse data-target=#collapseOneFour aria-expanded=false aria-controls=collapseOneFour>
-          <h2 class=mb-0>User Call</h2></div>",
-      "description": "<div id=collapseOneFour class=collapse aria-labelledby=headingOneFour data-parent=#accordionOne>
-        <div class=card-body>
-          <br><h4><b>Login in your dashboard.</b></h4><br>
-          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>
-            <br>2. Login with your Email and Password.<br>
-            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>
-            <br>4. Go to the top right of your Navigation bar and click in the Phone icon.<br>
-            <br>5. Online Users will show first in your list.<br>
-            <br>6. Click in the phone icon on the right of the user you would like to call.<br>
-            <br>7. Click in the X icon to finish the call.<br>
-          </p>
-        </div>
-      </div>
-    </div>"
+      "section": "<div class=card><div class=card-header id=headingOneFour data-toggle=collapse data-target=#collapseOneFour aria-expanded=false aria-controls=collapseOneFour><h2 class=mb-0>User Call</h2></div>",
+      "description": "<div id=collapseOneFour class=collapse aria-labelledby=headingOneFour data-parent=#accordionOne>        <div class=card-body>          <br><h4><b>Login in your dashboard.</b></h4><br>          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>            <br>2. Login with your Email and Password.<br>            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>            <br>4. Go to the top right of your Navigation bar and click in the Phone icon.<br>            <br>5. Online Users will show first in your list.<br>            <br>6. Click in the phone icon on the right of the user you would like to call.<br>            <br>7. Click in the X icon to finish the call.<br>          </p>        </div>      </div>    </div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class=card>
-        <div class=card-header id=headingOneFive data-toggle=collapse data-target=#collapseOneFive aria-expanded=false aria-controls=collapseOneFive>
-          <h2 class=mb-0>Group Call</h2></div>",
-      "description": "<div id=collapseOneFive class=collapse aria-labelledby=headingOneFive data-parent=#accordionOne>
-        <div class=card-body>
-          <br><h4><b>Login in your dashboard.</b></h4><br>
-          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>
-            <br>2. Login with your Email and Password.<br>
-            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>
-            <br>4. Go to the top right of your Navigation bar and click in the Phone icon.<br>
-            <br>5. Online Users will show first in your list.<br>
-            <br>6. Click in the <b>New group call</b>.<br>
-            <br> - Select the user you would like to include in the group call.<br>
-            - Click in the phone icon to call.<br>
-            <br>7. Click in the X icon to finish the call.<br>
-          </p>
-        </div>
-      </div>
-    </div>"
+      "section": "<div class=card>        <div class=card-header id=headingOneFive data-toggle=collapse data-target=#collapseOneFive aria-expanded=false aria-controls=collapseOneFive>          <h2 class=mb-0>Group Call</h2></div>",
+      "description": "<div id=collapseOneFive class=collapse aria-labelledby=headingOneFive data-parent=#accordionOne>        <div class=card-body>          <br><h4><b>Login in your dashboard.</b></h4><br>          <p>1. Open your Hindsite dashboard console. (<a href=https://app.hindsiteind.com/ target=_blank>https://app.hindsiteind.com/</a>).<br>            <br>2. Login with your Email and Password.<br>            <br>3. Select the organisational unit to which you want to enter. (if you belong to more than one organization).<br>            <br>4. Go to the top right of your Navigation bar and click in the Phone icon.<br>            <br>5. Online Users will show first in your list.<br>            <br>6. Click in the <b>New group call</b>.<br>            <br> - Select the user you would like to include in the group call.<br>            - Click in the phone icon to call.<br>            <br>7. Click in the X icon to finish the call.<br>          </p>        </div>      </div>    </div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class='card'>
-        <div class='card-header' id='headingOneSix' data-toggle='collapse' data-target='#collapseOneSix' aria-expanded='false' aria-controls='collapseOneSix'>
-          <h2 class='mb-0'>Add users individually</h2></div>",
-      "description": "<div id='collapseOneSix' class='collapse' aria-labelledby='headingOneSix' data-parent='#accordionOne'>
-        <div class='card-body'>
-          <h4><b>Before you begin</b></h4>
-          <br><p>To create a user account, you need only the person’s valid email, first name and last name.<br>The system automatically generate a temporary password</p><br>
-          <h4><b>Add a user</b></h4><br>
-          <p>1. Open your Hindsite Admin console. (<a href='https://admin.hindsiteind.com/' target='_blank'>https://admin.hindsiteind.com/</a>).<br>
-            <br>2. Select the organizational unit to which you want to add the user. (if you belong to more than one organization).<br>
-            <br>3. Go to Users (<a href='https://admin.hindsiteind.com/dashboard/users' target='_blank'>https://admin.hindsiteind.com/dashboard/users</a>).<br>
-            <br>4. At the top of the page, click Add new user.<br>
-            <br>5. Add account information:<br>- First and last name<br>- Primary email address (Email have to be valid, a confirmation email will be sent with the temporary password).<br>
-            <br>6. Click 'Create'. Note: If the new account's primary email address matches an existing Hindsite Account, the user will only be added to the organisation, the data provided will not overwrite the existing data.</p>
-            <br><br><h4><b>After you add the user</b></h4><br>
-            <p>When you’re done, the new user can sign in. The new user receives a welcome email message that explains how to sign in for the first time.
-            </p>
-          </div>
-        </div>
-      </div>"
+      "section": "<div class='card'>        <div class='card-header' id='headingOneSix' data-toggle='collapse' data-target='#collapseOneSix' aria-expanded='false' aria-controls='collapseOneSix'>          <h2 class='mb-0'>Add users individually</h2></div>",
+      "description": "<div id='collapseOneSix' class='collapse' aria-labelledby='headingOneSix' data-parent='#accordionOne'>        <div class='card-body'>          <h4><b>Before you begin</b></h4>          <br><p>To create a user account, you need only the person’s valid email, first name and last name.<br>The system automatically generate a temporary password</p><br>          <h4><b>Add a user</b></h4><br>          <p>1. Open your Hindsite Admin console. (<a href='https://admin.hindsiteind.com/' target='_blank'>https://admin.hindsiteind.com/</a>).<br>            <br>2. Select the organizational unit to which you want to add the user. (if you belong to more than one organization).<br>            <br>3. Go to Users (<a href='https://admin.hindsiteind.com/dashboard/users' target='_blank'>https://admin.hindsiteind.com/dashboard/users</a>).<br>            <br>4. At the top of the page, click Add new user.<br>            <br>5. Add account information:<br>- First and last name<br>- Primary email address (Email have to be valid, a confirmation email will be sent with the temporary password).<br>            <br>6. Click 'Create'. Note: If the new account's primary email address matches an existing Hindsite Account, the user will only be added to the organisation, the data provided will not overwrite the existing data.</p>            <br><br><h4><b>After you add the user</b></h4><br>            <p>When you’re done, the new user can sign in. The new user receives a welcome email message that explains how to sign in for the first time.            </p>          </div>        </div>      </div>"
     },
     {
       "type": "Dashboard",
-      "section": "<div class='card'>
-        <div class='card-header' id='headingOneSeven' data-toggle='collapse' data-target='#collapseOneSeveno' aria-expanded='false' aria-controls='collapseOneSeveno'>
-          <h2 class='mb-0'>Add several users at once</h2></div>",
-      "description": "<div id='collapseOneSeveno' class='collapse' aria-labelledby='headingOneSeven' data-parent='#accordionOne'>
-        <div class='card-body'>
-          <p>Before people on your team can sign in and use your organization's Hindsite services, they need a user account. If you have many users, you can add their accounts all at once from a spreadsheet.</p><br>
-          <h4><b>Step 1: Download the template file</b></h4><br>
-          <p>1. Open your Hindsite Admin console. (<a href='https://admin.hindsiteind.com/' target='_blank'>https://admin.hindsiteind.com/</a>).<br>
-            <br>2. Select the organizational unit to which you want to add the user. (if you belong to more than one organization).<br>
-            <br>3. Go to Users.<br>
-            <br>4. At the top of the page, click Bulk upload users.<br>
-            <br>5. Download the sample CSV (comma-separated values) template.<br>
-            <br>6. Open the CSV file in a spreadsheet application, such as Google Sheets or Microsoft® Excel.<br>
-            The file has columns for the attributes that can appear in each user's profile.</p><br><br>
-            <h4><b>Step 2: Enter users' information</b></h4><br>
-            <p>- For each user you want to add, enter information in these columns in the spreadsheet:<br>- First Name<br>- Last Name<br>- Primary email address (Email have to be valid, a confirmation email will be sent with the temporary password).</p>
-            <br><br><h4><b>Step 3: Save the file</b></h4>
-            <br><p>After you've filled in the spreadsheet, save it as a CSV file (.csv).<br><br></p>
-            <b>Notes:</b>
-            <p><br>- Maximum CSV file size is 3,5 MB.<br>- Maximum number of records per file is 1,000.<br>
-              - If your file is larger or has too many records, open it in your spreadsheet program, split the table into separate files, and save each one as a CSV file. Make sure you include the column headings row in all CSV files.<br>
-              - To upload non-ASCII or double byte usernames, first save the CSV file in UTF-8, including BOM.</p>
-              <br><br><h4><b>Step 4: Upload the file</b></h4><br><p>1. After you've filled in the spreadsheet, save it as a CSV file.<br>
-                <br>2. At the top of the Users page, click Bulk upload users.<br>
-                <br>3. Click Attach CSV.<br>
-                <br>4. Click Upload. If there's an error, enter the missing information in your spreadsheet and upload the file again.<br>Once processing is complete, a success message appears.</p><br><br><h4><b>After you add the user</b></h4>
-                <br><p>When you’re done, the new users can sign in. The new users receives a welcome email message that explains how to sign in for the first time.</p>
-              </div>
-            </div>
-          </div>
-          <br>"
+      "section": "<div class='card'>        <div class='card-header' id='headingOneSeven' data-toggle='collapse' data-target='#collapseOneSeveno' aria-expanded='false' aria-controls='collapseOneSeveno'>          <h2 class='mb-0'>Add several users at once</h2></div>",
+      "description": "<div id='collapseOneSeveno' class='collapse' aria-labelledby='headingOneSeven' data-parent='#accordionOne'>        <div class='card-body'>          <p>Before people on your team can sign in and use your organization's Hindsite services, they need a user account. If you have many users, you can add their accounts all at once from a spreadsheet.</p><br>          <h4><b>Step 1: Download the template file</b></h4><br>          <p>1. Open your Hindsite Admin console. (<a href='https://admin.hindsiteind.com/' target='_blank'>https://admin.hindsiteind.com/</a>).<br>            <br>2. Select the organizational unit to which you want to add the user. (if you belong to more than one organization).<br>            <br>3. Go to Users.<br>            <br>4. At the top of the page, click Bulk upload users.<br>            <br>5. Download the sample CSV (comma-separated values) template.<br>            <br>6. Open the CSV file in a spreadsheet application, such as Google Sheets or Microsoft® Excel.<br>            The file has columns for the attributes that can appear in each user's profile.</p><br><br>            <h4><b>Step 2: Enter users' information</b></h4><br>            <p>- For each user you want to add, enter information in these columns in the spreadsheet:<br>- First Name<br>- Last Name<br>- Primary email address (Email have to be valid, a confirmation email will be sent with the temporary password).</p>            <br><br><h4><b>Step 3: Save the file</b></h4>            <br><p>After you've filled in the spreadsheet, save it as a CSV file (.csv).<br><br></p>            <b>Notes:</b>            <p><br>- Maximum CSV file size is 3,5 MB.<br>- Maximum number of records per file is 1,000.<br>              - If your file is larger or has too many records, open it in your spreadsheet program, split the table into separate files, and save each one as a CSV file. Make sure you include the column headings row in all CSV files.<br>              - To upload non-ASCII or double byte usernames, first save the CSV file in UTF-8, including BOM.</p>              <br><br><h4><b>Step 4: Upload the file</b></h4><br><p>1. After you've filled in the spreadsheet, save it as a CSV file.<br>                <br>2. At the top of the Users page, click Bulk upload users.<br>                <br>3. Click Attach CSV.<br>                <br>4. Click Upload. If there's an error, enter the missing information in your spreadsheet and upload the file again.<br>Once processing is complete, a success message appears.</p><br><br><h4><b>After you add the user</b></h4>                <br><p>When you’re done, the new users can sign in. The new users receives a welcome email message that explains how to sign in for the first time.</p>              </div>            </div>          </div>          <br>"
     }
   ],
   "myWearable": [
     {
       "type": "Wearable",
+      "section": "Wearable",
       "description": "<div class='card'><div class='rounded-corners text-left' style='font-size: 1.5em; color: #666666; line-height: 1.5em; padding: 15px; margin-bottom: 15px; background: rgba(242, 242, 242, 1.0);'>Wearable</div>"
     },
     {
       "type": "Wearable",
-      "section": "<div class='card-header collapsed' id='headingTwoOne' data-toggle='collapse' data-target='#collapseTwoOne' aria-expanded='false' aria-controls='collapseTwoOne'>
-        <h2 class='mb-0'>What is it?</h2>
-      </div>",
-      "description": "<div id='collapseTwoOne' class='collapse' aria-labelledby='headingTwoOne' data-parent='#accordionOne'>
-        <div class='card-body'>
-          <b>HINDSITE</b> is a wearable, cloud based, knowledge management platform, purpose built for enterprise evidentiary capture to enable in-situ micro-learnings.<br>
-          <br>Make, take, capture and archive handsfree, real-time HD streaming calls from your safety certified smart-glasses to peers, stakeholders or internal Triage Centres.<br>
-          <br>Reduce expensive travel and ancillary management costs, do more with what you have.<br>
-        </div>
-      </div>
-    </div>"
+      "section": "<div class='card-header collapsed' id='headingTwoOne' data-toggle='collapse' data-target='#collapseTwoOne' aria-expanded='false' aria-controls='collapseTwoOne'>        <h2 class='mb-0'>What is it?</h2>      </div>",
+      "description": "<div id='collapseTwoOne' class='collapse' aria-labelledby='headingTwoOne' data-parent='#accordionOne'>        <div class='card-body'>          <b>HINDSITE</b> is a wearable, cloud based, knowledge management platform, purpose built for enterprise evidentiary capture to enable in-situ micro-learnings.<br>          <br>Make, take, capture and archive handsfree, real-time HD streaming calls from your safety certified smart-glasses to peers, stakeholders or internal Triage Centres.<br>          <br>Reduce expensive travel and ancillary management costs, do more with what you have.<br>        </div>      </div>    </div>"
     },
     {
       "type": "Wearable",
